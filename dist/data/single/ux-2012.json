@@ -1,0 +1,112 @@
+[
+	{
+		"projectName" : "UX 2012",
+		"companyName" : "Company Name",		
+		"components" : [
+			{
+				"name" : "Mobile platform developer’s site",
+				"text" : "Aboout exposing differnt services for the user and customizing his frequent ones. feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend.",
+				"link" : "",
+				"layout" : "center",
+				"module" : {
+					"type" : "carousel",
+					"theme" : "imac", 
+					"items" : [
+						{
+							"title" : "one",
+							"image" : "images/ph/imac/1.jpg"
+						},
+						{
+							"title" : "two",
+							"image" : "images/ph/imac/2.jpg"
+						},
+						{
+							"title" : "three",
+							"image" : "images/ph/imac/3.jpg"
+						}
+					]
+				}					
+			},
+			{
+				"name" : "Mobile platform developer’s site",
+				"text" : "Aboout exposing differnt services for the user and customizing his frequent ones. feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend.",
+				"link" : "",
+				"layout" : "center",
+				"module" : {
+					"type" : "carousel",
+					"theme" : "ipad", 
+					"items" : [
+						{
+							"title" : "one",
+							"image" : "images/ph/ipad/1.jpg"
+						},
+						{
+							"title" : "two",
+							"image" : "images/ph/ipad/2.jpg"
+						},
+						{
+							"title" : "three",
+							"image" : "images/ph/ipad/3.jpg"
+						}
+					]
+				}					
+			},
+			{
+				"name" : "Mobile platform developer’s site",
+				"text" : "Aboout exposing differnt services for the user and customizing his frequent ones. feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend.",
+				"link" : "",
+				"layout" : "center",
+				"module" : {
+					"type" : "presentation",
+					"embed" : "29113824"
+				}					
+			},
+			{
+				"name" : "Mobile platform developer’s site",
+				"text" : "Aboout exposing differnt services for the user and customizing his frequent ones. feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend.",
+				"link" : "",
+				"layout" : "center",
+				"module" : {
+					"type" : "carousel",
+					"theme" : "wireframes", 
+					"items" : [
+						{
+							"title" : "one",
+							"image" : "images/ph/wireframes/Project.jpg"
+						},
+						{
+							"title" : "two",
+							"image" : "images/ph/wireframes/1.jpg"
+						}
+					]
+				}					
+			},
+			{
+				"name" : "Mobile platform developer’s site",
+				"text" : "Aboout exposing differnt services for the user and customizing his frequent ones. feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend.",
+				"link" : "",
+				"layout" : "left",
+				"module" : {
+					"type" : "carousel",
+					"theme" : "iphone", 
+					"items" : [
+						{
+							"title" : "one",
+							"image" : "images/ph/iphone/1.jpg"
+						},
+						{
+							"title" : "two",
+							"image" : "images/ph/iphone/2.jpg"
+						},
+						{
+							"title" : "three",
+							"image" : "images/ph/iphone/3.jpg"
+						}
+					]
+				}					
+			}
+		]
+	}
+]
+
+
