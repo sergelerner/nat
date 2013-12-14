@@ -1,0 +1,61 @@
+
+.work {			
+
+	&.plane {
+		margin-bottom: 450px;
+	}
+	
+	h2{
+		font-size: 16px;
+		color: #20202a;
+  		font-weight: Normal;
+  		text-transform: uppercase;
+	}	
+
+	.list {
+
+		display: inline-block;
+	}
+
+	.item {
+		list-style-type: none;
+  		float: left;
+  		position: relative;
+  		margin-right: 25px;
+  		margin-bottom: 25px;
+
+  		&:nth-child(4n){
+		   margin-right: 0px;
+		}
+
+		.title {
+			display: none;
+		}
+
+		.overlay {
+			opacity: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(32,32,42,0.9);
+			position: absolute;
+			left: 0;
+			top: 0;	
+
+			&:hover {
+				opacity: 1;
+			}
+
+			h4 {
+				color: white;
+				font-size: 24px;
+				line-height: 26px;
+				font-style: italic;
+				font-weight: Normal;
+				text-align: center;						
+				width: 100px;				
+				margin: 0 auto;
+				padding-top: 70px;					
+			}		
+		}
+	}
+}
