@@ -382,7 +382,7 @@ module.exports = function (grunt) {
     //'ngmin',
     'cssmin',
     //'uglify',    
-    'usemin'
+    //'usemin'
   ]);
 
   grunt.registerTask('default', [
