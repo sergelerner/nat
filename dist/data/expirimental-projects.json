@@ -1,7 +1,7 @@
 [
 	{
 		"title" : "The Virtual Profile",
-		"image" : "../images/selected-work/the-virtual-profile.png",
+		"image" : "images/selected-work/the-virtual-profile.png",
 		"type"  : "",
 		"singleId"  : "the-virtual-profile"
 	}

@@ -1,73 +1,73 @@
 [
 	{
 		"title" : "UX 2012",
-		"image" : "../images/selected-work/ux2012.png",
+		"image" : "images/selected-work/ux2012.png",
 		"type"  : "View Project",
 		"singleId"  : "ux-2012"
 	},
 	{
 		"title" : "Self Presentation",
-		"image" : "../images/selected-work/self-presentation.png",
+		"image" : "images/selected-work/self-presentation.png",
 		"type"  : "",
 		"singleId"  : "self-presentation"
 	},
 	{
 		"title" : "The Virtual Profile",
-		"image" : "../images/selected-work/the-virtual-profile.png",
+		"image" : "images/selected-work/the-virtual-profile.png",
 		"type"  : "",
 		"singleId"  : "the-virtual-profile"
 	},
 	{
 		"title" : "Evaluating Others",
-		"image" : "../images/selected-work/evaluating-others.png",
+		"image" : "images/selected-work/evaluating-others.png",
 		"type"  : "",
 		"singleId"  : "evaluating-others"
 	},
 	{
 		"title" : "Shuttle Taxi",
-		"image" : "../images/selected-work/shuttle-taxi.png",
+		"image" : "images/selected-work/shuttle-taxi.png",
 		"type"  : "",
 		"singleId"  : "shuttle-taxi"
 	},
 	{
 		"title" : "Digital Fountains",
-		"image" : "../images/selected-work/digital-fountains.png",
+		"image" : "images/selected-work/digital-fountains.png",
 		"type"  : "",
 		"singleId"  : "tentative-design"
 	},
 	{
 		"title" : "Online Dating",
-		"image" : "../images/selected-work/online-dating.png",
+		"image" : "images/selected-work/online-dating.png",
 		"type"  : "",
 		"singleId"  : "online-dating"
 	},
 	{
 		"title" : "Tentative Design",
-		"image" : "../images/selected-work/tentative-design.png",
+		"image" : "images/selected-work/tentative-design.png",
 		"type"  : "",
 		"singleId"  : "tentative-design"
 	},
 	{
 		"title" : "Fatal",
-		"image" : "../images/selected-work/fatal.png",
+		"image" : "images/selected-work/fatal.png",
 		"type"  : "",
 		"singleId"  : "fatal"
 	},
 	{
 		"title" : "HP Anywhere",
-		"image" : "../images/selected-work/hp-anywhere.png",
+		"image" : "images/selected-work/hp-anywhere.png",
 		"type"  : "",
 		"singleId"  : "hp-anywhere"
 	},
 	{
 		"title" : "Bezeq",
-		"image" : "../images/selected-work/bezeq.png",
+		"image" : "images/selected-work/bezeq.png",
 		"type"  : "",
 		"singleId"  : "bezeq"
 	},
 	{
 		"title" : "Family",
-		"image" : "../images/selected-work/family.png",
+		"image" : "images/selected-work/family.png",
 		"type"  : "",
 		"singleId"  : "family"
 	}
