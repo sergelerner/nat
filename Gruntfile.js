@@ -380,8 +380,7 @@ module.exports = function (grunt) {
     'cdnify',
     'ngmin',
     'cssmin',
-    'uglify',
-    'rev',
+    'uglify',    
     'usemin'
   ]);
 
