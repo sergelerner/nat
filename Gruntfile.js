@@ -276,6 +276,7 @@ module.exports = function (grunt) {
             '.htaccess',
             'bower_components/**/*',
             'data/**/*',
+            'scripts/**/*',
             'images/{,*/}*.{gif,webp}',
             'styles/fonts/*'
           ]
@@ -375,12 +376,12 @@ module.exports = function (grunt) {
     'useminPrepare',
     'concurrent:dist',
     'autoprefixer',
-    'concat',
+    //'concat',
     'copy:dist',
     'cdnify',
-    'ngmin',
+    //'ngmin',
     'cssmin',
-    'uglify',    
+    //'uglify',    
     'usemin'
   ]);
 
