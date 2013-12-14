@@ -1,3 +1,4 @@
+
 <div class="single plane">
 	
 	<div class="container" ng-repeat="single in singles">
@@ -9,16 +10,16 @@
 		</div>
 		
 		<ul class="components">
-			<li class="component" ng-repeat="component in single.components" ng-switch="" on="component.module.type">
+			<li class="component" ng-repeat="component in single.components" ng-switch on="component.module.type">
 				
 				<div ng-switch-when="carousel" class="{{component.layout}}">						
-					<div class="carousel" ng-include="" src="'views/modules/_carousel.html'"></div>
-					<div class="information" ng-include="" src="'views/modules/_information.html'"></div>				
+					<div class="carousel" ng-include src="'views/modules/_carousel.html'"></div>
+					<div class="information" ng-include src="'views/modules/_information.html'"></div>				
 				</div>
 
-				<div ng-switch-when="presentation" class="{{component.layout}}">
-					<div class="presentation" ng-include="" src="'views/modules/_slideshare.html'"></div>	
-					<div class="information" ng-include="" src="'views/modules/_information.html'"></div>		
+				<div ng-switch-when="presentation"  class="{{component.layout}}">
+					<div class="presentation" ng-include src="'views/modules/_slideshare.html'"></div>	
+					<div class="information" ng-include src="'views/modules/_information.html'"></div>		
 				</div>				
 				
 			</li>

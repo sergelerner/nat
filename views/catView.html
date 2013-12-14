@@ -1,3 +1,4 @@
+
 <section class="work plane">
 	<div class="container">
 		<h2>Recent Work</h2>
@@ -5,12 +6,12 @@
 	        <li class="item" ng-repeat="work in works">
 				<a href="#/single/{{work.singleId}}" ng-click="">
 					<h3 class="title">{{work.title}}</h3>
-					<img ng-src="{{work.image}}">
-			        <div class="overlay">
+					<img ng-src="{{work.image}}" />
+			        <div class='overlay'>
 			          <h4>{{work.type}}</h4>
 			        </div>
 				</a>
 			</li>
 		</ul>
 	</div>	
-</section>
+</section>		
