@@ -13,7 +13,7 @@
 			<li class="component" ng-repeat="component in single.components" ng-switch on="component.module.type">
 				
 				<div ng-switch-when="carousel" class="{{component.layout}}">						
-					<div class="carousel" ng-include src="'views/modules/_carousel.html'"></div>
+					<div class="carousel" ng-include src="'views/modules/carousel.html'"></div>
 					<div class="information" ng-include src="'views/modules/_information.html'"></div>				
 				</div>
 
